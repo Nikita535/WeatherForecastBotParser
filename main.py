@@ -1,7 +1,7 @@
 import telebot
 import requests
 from bs4 import BeautifulSoup as BS
-bot = telebot.TeleBot("1587462822:AAEXWuWScN9WUlhD4VAe_ezTCaDzBZgfuZM")
+bot = telebot.TeleBot("Ваш токен")
 base_url = 'https://www.google.com/search?q=%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0+%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0'
 HEADERS = {
 
